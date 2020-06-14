@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Shield
+  - Player
+  - Rubble
+  - Bullet
+  - Camera
+  - Pickups
+  - Enemy
+  - Trap
+  - Cover
+  - Ladder
+  - Log
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 283027991
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Pickups
+    uniqueID: 3981754825
+    locked: 0
+  - name: Enemy
+    uniqueID: 2442845101
+    locked: 0
+  - name: Player
+    uniqueID: 1835300455
+    locked: 0
+  - name: UI
+    uniqueID: 4221620035
+    locked: 0
