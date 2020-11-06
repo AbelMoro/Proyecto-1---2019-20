@@ -1,6 +1,6 @@
 # SAFE & SOUND
 
-Juego desarrollado para la asignatura de Proyecto 1 del Grado de Desarrollo de Videojuegos de la Universidad Complutense de Madrid, curso 2019/20, Grupo 8.
+:heavy_minus_sign:  Juego desarrollado para la asignatura de Proyecto 1 del Grado de Desarrollo de Videojuegos de la Universidad Complutense de Madrid, curso 2019/20, Grupo 8.
 
 ## OBJETIVOS
 
